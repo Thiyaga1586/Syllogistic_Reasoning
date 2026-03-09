@@ -479,7 +479,7 @@ The relatively low TCE of 0.0818 indicates the system is moderately well-calibra
 
 **Confidence vs Accuracy scatter plot (from dev set analysis):**
 
-![Confidence vs Accuracy](./confidence_vs_accuracy.png)
+![Confidence vs Accuracy](images/confidence_vs_accuracy.png)
 
 **Test set predictions (191 examples):**
 
